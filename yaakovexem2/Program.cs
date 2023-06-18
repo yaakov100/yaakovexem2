@@ -10,7 +10,7 @@ namespace yaakovexem2
     {
         static void Main(string[] args)
         {
-            Console.WriteLine("haloo world");
+            Console.WriteLine("haloo koby");
         }
     }
 }
