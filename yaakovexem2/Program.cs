@@ -11,6 +11,7 @@ namespace yaakovexem2
         static void Main(string[] args)
         {
             Console.WriteLine("haloo koby");
+            //תודה רבה//
         }
     }
 }
